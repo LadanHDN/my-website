@@ -1,1 +1,2 @@
-klhdgldfhgs
+def func():
+    print('hi')
